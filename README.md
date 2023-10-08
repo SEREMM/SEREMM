@@ -8,8 +8,8 @@ I'm deeply passionate about the fascinating world of Machine Learning, Data Scie
 ## 📊 Statistics & Math:
 I thrive on the beauty of numbers and mathematical concepts. From probability theory to statistical modeling, I'm always eager to dive deep into the world of numbers.
 
-## 💡 Data Engineering:
-Besides predicting the future with data, I'm like the art of data engineering, shaping the data pipelines that make it all possible.
+## 💡 Data Structures:
+Besides predicting the future with data, I also have a deep appreciation for the art of data structures. I like crafting intricate data structures that serve as the foundation for efficient data manipulation and organization.
 
 ## 💰 Investments & Trading:
 The financial markets hold endless mysteries, and I love unraveling them. Let's discuss strategies, analyze trends, and explore investment opportunities.
